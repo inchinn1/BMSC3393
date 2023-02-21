@@ -1,7 +1,0 @@
-name: BMSC3393-environment
-
-dependencies:
-  - numpy
-  - scipy
-  - matplotlib
-  - ipympl
